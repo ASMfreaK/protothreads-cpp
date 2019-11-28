@@ -1,0 +1,13 @@
+{
+  "name": "protothreads-cpp",
+  "description": "Port of Adam Dunkels' protothread library to C++.",
+  "keywords": "protothreads,c-plus-plus,macros",
+  "repository":  {
+     "type": "git",
+     "url": "https://github.com/ASMfreaK/protothreads-cpp.git"
+  },
+  "version": "1.0.0",
+  "build": {
+    "includeDir": "./"
+  }
+}
